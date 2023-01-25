@@ -1,4 +1,4 @@
-# Mario... but make it Genshin Impact Game
+# Teyvat Travels
 
 ## Overview
 This game is based on the open-world action RPG game, Genshin Impact. In this simple game, players can defeat enemies, open chests, and collect adventure items to earn points! 
